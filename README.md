@@ -52,8 +52,8 @@ My research focuses on energy data, data management with database systems, and o
     <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="open_MODEX" height="80"/> </a> 
     open_MODEX <br>
 <a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP" height="80"/> 
-    SIROP: Automated comparison of energy scenarios </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP" height="80"/> </a> 
+    SIROP: Automated comparison of energy scenarios 
 </p>
 
 
