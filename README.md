@@ -9,11 +9,11 @@ in the field of energy system analysis and renewable energies</h3>
 <h3 align="left">About me:</h3>
 <p align="right">
 <a href="https://reiner-lemoine-institut.de/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de//wp-content/uploads/2015/09/rlilogo.png" alt="RLI" width="100" height="100"/> </a> 
+    <img src="https://reiner-lemoine-institut.de//wp-content/uploads/2015/09/rlilogo.png" alt="RLI" height="80"/> </a> 
 </p>
 <p align="left">
 I have been a researcher in the Reiner Lemoine Institut in Berlin.
-I'm a developer and project manager in the unit [Transformation of Energy Systems](https://reiner-lemoine-institut.de/en/research-fields/transformation-of-energy-systems-2/) since 2014. 
+I'm a developer and project manager in the unit <a href="https://reiner-lemoine-institut.de/en/research-fields/transformation-of-energy-systems-2/" target="_blank" rel="noreferrer">Transformation of Energy Systems</a> since 2014. 
 My research focuses on energy data, data management with database systems, and open science in energy system research.
 </p>
 
@@ -27,8 +27,6 @@ My research focuses on energy data, data management with database systems, and o
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a> 
 </p>
@@ -37,25 +35,25 @@ My research focuses on energy data, data management with database systems, and o
 <p align="left">
 - open_eGo: open electricity grid optimization 
     <a href="https://reiner-lemoine-institut.de/open_ego-open-electricity-grid-optimization/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="open_eGo"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="open_eGo" height="100"/> </a> 
 - open_FRED: open feed-in time series based on a Renewable Energy Database 
     <a href="https://reiner-lemoine-institut.de/open_fred-open-feed-time-series-based-renewable-energy-database/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="open_FRED"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="open_FRED" height="100"/> </a> 
 - REEEM – Role of technologies in an energy efficient economy 
     <a href="https://reiner-lemoine-institut.de/reeem-role-technologies-energy-efficient-economy/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/05/Logo_Reeem_1200x480.jpg" alt="REEEM"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/05/Logo_Reeem_1200x480.jpg" alt="REEEM" height="100"/> </a> 
 - SzenarienDB 
     <a href="https://reiner-lemoine-institut.de/szenariendb/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="SzenarienDB"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="SzenarienDB" height="100"/> </a> 
 - LOD-GEOSS 
     <a href="https://reiner-lemoine-institut.de/lod-geoss/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="LOD-GEOSS"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="LOD-GEOSS" height="100"/> </a> 
 - open_MODEX 
     <a href="https://reiner-lemoine-institut.de/open_modex/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="open_MODEX"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="open_MODEX" height="100"/> </a> 
 - SIROP: Automated comparison of energy scenarios
     <a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP"/> </a> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP" height="100"/> </a> 
 </p>
 
 
