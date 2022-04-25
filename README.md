@@ -33,26 +33,26 @@ My research focuses on energy data, data management with database systems, and o
 
 <h3 align="left">Research Projects:</h3>
 <p align="left">
-- <a href="https://reiner-lemoine-institut.de/open_ego-open-electricity-grid-optimization/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="open_eGo" height="100"/> </a> 
+<a href="https://reiner-lemoine-institut.de/open_ego-open-electricity-grid-optimization/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="open_eGo" height="80"/> </a> 
     open_eGo: open electricity grid optimization <br>
-- <a href="https://reiner-lemoine-institut.de/open_fred-open-feed-time-series-based-renewable-energy-database/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="open_FRED" height="100"/> </a> 
+<a href="https://reiner-lemoine-institut.de/open_fred-open-feed-time-series-based-renewable-energy-database/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="open_FRED" height="80"/> </a> 
     open_FRED: open feed-in time series based on a Renewable Energy Database <br>
-- <a href="https://reiner-lemoine-institut.de/reeem-role-technologies-energy-efficient-economy/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/05/Logo_Reeem_1200x480.jpg" alt="REEEM" height="100"/> </a> 
+<a href="https://reiner-lemoine-institut.de/reeem-role-technologies-energy-efficient-economy/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/05/Logo_Reeem_1200x480.jpg" alt="REEEM" height="80"/> </a> 
     REEEM – Role of technologies in an energy efficient economy <br>
-- <a href="https://reiner-lemoine-institut.de/szenariendb/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="SzenarienDB" height="100"/> </a> 
+<a href="https://reiner-lemoine-institut.de/szenariendb/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="SzenarienDB" height="80"/> </a> 
     SzenarienDB <br>
-- <a href="https://reiner-lemoine-institut.de/lod-geoss/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="LOD-GEOSS" height="100"/> </a> 
+<a href="https://reiner-lemoine-institut.de/lod-geoss/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="LOD-GEOSS" height="80"/> </a> 
     LOD-GEOSS <br>
-- <a href="https://reiner-lemoine-institut.de/open_modex/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="open_MODEX" height="100"/> </a> 
+<a href="https://reiner-lemoine-institut.de/open_modex/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="open_MODEX" height="80"/> </a> 
     open_MODEX <br>
-- <a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/" target="_blank" rel="noreferrer"> 
-    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP" height="100"/> 
+<a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP" height="80"/> 
     SIROP: Automated comparison of energy scenarios </a> 
 </p>
 
