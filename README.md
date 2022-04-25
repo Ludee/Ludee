@@ -1,25 +1,63 @@
-<h1 align="center">I'm Ludee</h1>
-<h3 align="center">An idealistic open science developer in the field of energy system analysis</h3>
+<h1 align="center">I'm Ludwig</h1>
+<h3 align="center">An idealistic open science developer <br>
+in the field of energy system analysis and renewable energies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludee&label=Profile%20views&color=0e75b6&style=flat" alt="ludee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ludee&label=Profile%20views&color=0e75b6&style=flat" alt="ludee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ludwighuelk" target="blank"><img src="https://img.shields.io/twitter/follow/ludwighuelk?logo=twitter&style=for-the-badge" alt="ludwighuelk" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ludwighuelk" target="blank"><img src="https://img.shields.io/twitter/follow/ludwighuelk?logo=twitter&style=for-the-badge" alt="ludwighuelk" /></a> </p>
 
+<h3 align="left">About me:</h3>
+<p align="right">
+<a href="https://reiner-lemoine-institut.de/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de//wp-content/uploads/2015/09/rlilogo.png" alt="RLI" width="100" height="100"/> </a> 
+</p>
+<p align="left">
+I have been a researcher in the Reiner Lemoine Institut in Berlin.
+I'm a developer and project manager in the unit [Transformation of Energy Systems](https://reiner-lemoine-institut.de/en/research-fields/transformation-of-energy-systems-2/) since 2014. 
+My research focuses on energy data, data management with database systems, and open science in energy system research.
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Research Projects:</h3>
+<p align="left">
+- open_eGo: open electricity grid optimization 
+    <a href="https://reiner-lemoine-institut.de/open_ego-open-electricity-grid-optimization/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="open_eGo"/> </a> 
+- open_FRED: open feed-in time series based on a Renewable Energy Database 
+    <a href="https://reiner-lemoine-institut.de/open_fred-open-feed-time-series-based-renewable-energy-database/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="open_FRED"/> </a> 
+- REEEM – Role of technologies in an energy efficient economy 
+    <a href="https://reiner-lemoine-institut.de/reeem-role-technologies-energy-efficient-economy/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/05/Logo_Reeem_1200x480.jpg" alt="REEEM"/> </a> 
+- SzenarienDB 
+    <a href="https://reiner-lemoine-institut.de/szenariendb/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="SzenarienDB"/> </a> 
+- LOD-GEOSS 
+    <a href="https://reiner-lemoine-institut.de/lod-geoss/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="LOD-GEOSS"/> </a> 
+- open_MODEX 
+    <a href="https://reiner-lemoine-institut.de/open_modex/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="open_MODEX"/> </a> 
+- SIROP: Automated comparison of energy scenarios
+    <a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/" target="_blank" rel="noreferrer"> 
+    <img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="SIROP"/> </a> 
+</p>
+
 
 <!--
 **Ludee/Ludee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
