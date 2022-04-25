@@ -12,7 +12,7 @@ in the field of energy system analysis and renewable energies</h3>
 </p>
 <h3 align="left">About me:</h3>
 <p align="left">
-I am a researcher in the Reiner Lemoine Institut in Berlin since 2014.
+I am a researcher in the Reiner Lemoine Institut (RLI) in Berlin since 2014.
 I work as developer and project manager in the unit <a href="https://reiner-lemoine-institut.de/en/research-fields/transformation-of-energy-systems-2/" target="_blank" rel="noreferrer">Transformation of Energy Systems</a> . 
 My research focuses on energy data, data management with database systems, and open science in energy system research.
 </p>
@@ -56,6 +56,10 @@ My research focuses on energy data, data management with database systems, and o
     SIROP: Automated comparison of energy scenarios 
 </p>
 
+<h3 align="left">Publications:</h3>
+<p align="left">
+todo
+</p>
 
 <!--
 **Ludee/Ludee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
